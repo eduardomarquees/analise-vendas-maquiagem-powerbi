@@ -1,3 +1,10 @@
+##  Dashboard interativo desenvolvido no Power BI:
+
+Visão geral do dashboard desenvolvido:
+
+![Dashboard](dashboard.png)
+
+
 Dashboard de Vendas de Maquiagem 2025
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI com o objetivo de analisar o desempenho de vendas no setor de cosméticos.
