@@ -46,7 +46,3 @@ Distribuição por método de pagamento
 - O canal online tem forte impacto nas receitas
 - Métodos digitais de pagamento são predominantes
 
-- Ferramentas Utilizadas
-Power BI
-DAX
-Modelagem de Dados
